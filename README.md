@@ -1,5 +1,5 @@
-# DragoJ Connect
-Simple, one-page, hashtag-based social networking system craeted with PHP.
+# JF Connect
+Simple, one-page, hashtag-based social networking system craeted with PHP and MySQL.
 
 * News Feed - Browse 10 latest posts.
 * Browse - Search posts by hashtag.
