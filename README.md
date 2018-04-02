@@ -15,6 +15,4 @@ Simple, one-page, hashtag-based social networking system created with PHP and My
 All JF work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (https://creativecommons.org/licenses/by-nc-nd/4.0/). No commercial use is allowed.
 
 ## Additional Comments
-The design of this system is very basic and does not include neccessary security features and optimisations to be safely used in production environments. It is for educational purposes only.
-
-Although these projects are not maintained, you are welcomed to submit updates and edits to the source codes.
+This system is created years ago and its design is very basic and does not include neccessary security features and optimisations to be safely used in production environments. It is for educational purposes only.
