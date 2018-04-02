@@ -1,5 +1,5 @@
 # JF Connect
-Simple, one-page, hashtag-based social networking system craeted with PHP and MySQL. User interface made with bootstrap (MaxCDN files used).
+Simple, one-page, hashtag-based social networking system created with PHP and MySQL. User interface made with bootstrap (MaxCDN files used).
 
 ## Features
 * News Feed - Browse 10 latest posts.
